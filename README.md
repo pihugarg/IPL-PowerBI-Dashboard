@@ -1,4 +1,4 @@
- # IPL-PowerBI-Dashboard
+ # IPL-2026-PowerBI-Dashboard
 
 # 🏏 Interactive IPL 2026 Analytics Dashboard
 
