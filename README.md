@@ -174,7 +174,7 @@ The dashboard is built using IPL 2026 datasets containing:
 
 ## 🏏 Player Analysis
 
-![Player Analysis](Screenshots/Player%20Analysis.png)
+![Player Analysis](https://github.com/pihugarg/IPL-PowerBI-Dashboard/blob/main/Player%20Analysis.png)
 
 ---
 
