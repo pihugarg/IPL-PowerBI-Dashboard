@@ -168,7 +168,7 @@ The dashboard is built using IPL 2026 datasets containing:
 
 ## 🏠 Season Overview
 
-![Season Overview](Screenshots/Season%20Overview.png)
+![Season Overview](https://github.com/pihugarg/IPL-PowerBI-Dashboard/blob/main/Season%20Overview.png)
 
 ---
 
