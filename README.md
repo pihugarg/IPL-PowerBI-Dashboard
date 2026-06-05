@@ -180,7 +180,7 @@ The dashboard is built using IPL 2026 datasets containing:
 
 ## 🏆 Team & Venue Analysis
 
-![Team and Venue Analysis](Screenshots/Team%20and%20Venue%20Analysis.png)
+![Team and Venue Analysis](https://github.com/pihugarg/IPL-PowerBI-Dashboard/blob/main/Team%20and%20Venue%20Analysis.png)
 
 ---
 
